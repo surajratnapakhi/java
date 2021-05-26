@@ -22,5 +22,4 @@ public class salary {
 		}
 		System.out.println("The total salary will be: " + t_sal );
 	}
-
 }
